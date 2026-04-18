@@ -1,0 +1,13 @@
+INFO:     Started server process [8828]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:51652 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51654 - "GET /list_chart_types HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51656 - "GET /list_templates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51658 - "GET /list_styles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51660 - "GET /list_architecture_templates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51662 - "POST /create_chart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51664 - "POST /auto_chart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51666 - "POST /create_architecture HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51668 - "GET /docs HTTP/1.1" 200 OK

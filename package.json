@@ -1,0 +1,23 @@
+{
+  "name": "scientific-plotter",
+  "version": "1.0.0",
+  "description": "MCP server for scientific data visualization",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py",
+    "test": "python -m pytest tests/",
+    "examples": "python examples.py",
+    "cli": "python cli.py"
+  },
+  "keywords": [
+    "mcp",
+    "plotting",
+    "visualization",
+    "scientific",
+    "charts",
+    "matplotlib",
+    "plotly"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

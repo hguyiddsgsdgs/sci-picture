@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "scientific-plotter": {
+      "command": "C:\\download\\Anaconda\\ancoda\\python.exe",
+      "args": [
+        "C:\\download\\agent\\MCP\\picture\\server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\download\\agent\\MCP\\picture",
+        "PYTHONIOENCODING": "utf-8"
+      },
+      "disabled": false,
+      "alwaysAllow": []
+    }
+  }
+}
